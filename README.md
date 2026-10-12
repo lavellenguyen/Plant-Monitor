@@ -42,8 +42,3 @@ Watch the plant monitor in action: [YouTube Demo](https://youtu.be/ndHWT7kaMkk)
 - Converting raw NTC thermistor readings into temperature using the Beta parameter formula
 - Automating a physical actuator (water pump) based on live sensor thresholds
 - Using I2C communication to drive an LCD display
-
-## Next Steps
-- Add a mobile/web dashboard to log readings over time
-- Add a rain/overflow sensor as a safety check for the pump
-- Move to a rechargeable battery or solar power source
