@@ -2,13 +2,13 @@
 
 An Arduino-based automated plant care system that monitors soil moisture, ambient light, and temperature — and automatically waters the plant when the soil gets too dry.
 
-![Build Photo](photos/plant-monitor-build.jpg)
+![Build Photo](PM-breadboard-build.jpg)
 
 ## Overview
 This project uses an Arduino Uno with a capacitive soil moisture sensor, a light sensor, and an NTC thermistor to monitor a plant's environment in real time. Readings are displayed on a 16x2 I2C LCD, and a mini water pump is triggered automatically when soil moisture drops below 35%.
 
 ## Circuit Diagram
-![Circuit Diagram](circuit/circuit-diagram.png)
+![Circuit Diagram](PM-circuit.png)
 
 ## How It Works
 - **Capacitive soil moisture sensor:** reads soil moisture level (converted to a percentage)
